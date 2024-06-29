@@ -4,7 +4,7 @@
 * Co-Founder @Analytixia - Business Analytics Solution Provider
 ------------------------------------------------------------------------------------
 * 🌍  I'm based in Metro Vancouver Area, Canada
-* ✉️  You can contact me at [zafarheydari@gmail.com](mailto:zafarheydari@gmail.com)
+* ✉️  You can contact me at [farid@Analytixia.com](mailto:farid@Analytixia.com)
 ------------------------------------------------------------------------------------
 ## Analytics Projects:
 * E-commerce
