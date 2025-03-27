@@ -1,1 +1,1 @@
-
+<iframe title="ecommerce-analytics" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDI1MTY1MDMtM2FjYS00YjJlLTliY2EtMTJiNTE1YmI4Mjk3IiwidCI6ImU2MzQyMGU2LTBlOTUtNDQxOC1hNWNlLWY1NWEyZjQ1NmFmMiJ9" frameborder="0" allowFullScreen="true"></iframe>
