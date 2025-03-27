@@ -1,6 +1,8 @@
 # E-Commerce Industry Analytics Projects
 Welcome to the repository for E-Commerce Analytics Projects! This collection showcases my initiatives and data-driven solutions tailored for the e-commerce industry, focusing on sales, inventory, customer behaviour, and recommendation systems. Each project is designed to address real-world challenges and provide actionable insights for businesses.
 
+### Visit [Interactive eCommerce Analytics Dashboard](https://farid-zafar.github.io/ecommerce-analytics/)
+
 ## 📁 Projects Overview
 
 ### 1. Sales Analytics
