@@ -66,5 +66,5 @@ This repository includes sample datasets to simulate real-world e-commerce scena
 
 ## 📧 Contact
 For inquiries or collaboration opportunities, reach out via:
-* Email: farid@analytixia.com
-* LinkedIn: Farid Zafar
+* Email: farid.zafar.ca@gmail.com
+* LinkedIn: [Farid Zafar](https://www.linkedin.com/in/faridzafar/)
